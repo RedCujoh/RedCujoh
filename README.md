@@ -1,6 +1,0 @@
-- 👋 Hi, I’m @RedCujoh
-- 👀 I’m interested in gaming, modding and giving ideas on things!
-- 🌱 I’m currently learning modding for Friday Night Funkin'
-- 💞️ I’m looking to collaborate on modding and stuff
-- 📫 How to reach me ... (bruh not gona say my ip)
-- ✋ Looking for people to help me!
